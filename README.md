@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Gospel Oga Oligwu
 
-💻 **Frontend Developer | React & Tailwind Enthusiast | Builder of Useful Things**
+💻 **Fullstack Developer | MERN Stack | Builder of Useful Things**
 
 I’m passionate about creating seamless digital experiences using modern web technologies.
-Currently focused on building **Unifyr** – a multi-service business platform that helps companies connect their diverse operations under one digital hub.
-
+Currently focused on building and improving my career as a **Software Engineer**
 ---
 
 ### 🚀 What I Do
 - 🧠 Frontend Development (React.js, TailwindCSS, JavaScript)
-- ⚙️ Backend Collaboration (Node.js, Express, MongoDB)
+- ⚙️ Backend Collaboration (Node.js, Express, MongoDB, PostgreSQL)
 - 🎨 UI/UX Design & Responsive Layouts
 - 🧩 API Integration & Authentication (JWT, OAuth, REST)
 
@@ -30,7 +29,7 @@ Currently focused on building **Unifyr** – a multi-service business platform t
 |----------|--------------|------|
 | [Unifyr](https://github.com/Devstein1365/unifyr_frontend) | Multi-service business platform | MERN Stack |
 | [Wondertix](https://github.com/Devstein1365/wondertix) | Online ticketing platform | React, Tailwind, Local-Storage |
-| [Online Clearance System](https://github.com/Devstein1365/Online-Clearance-System) | Clearance portal for students | PHP, MySQL, JS |
+| [Kanban-Board](https://github.com/Devstein1365/Kanban-Board) | A daily sprint planning App | Reactjs, TailwindCSS, Local-Storage |
 
 ---
 
