@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Gospel Oga Oligwu
 
-💻 **Fullstack Developer | MERN Stack | Builder of Useful Things**
+💻 **💻 Fullstack Developer | Building Educational, Business Software**
 
-I’m passionate about creating seamless digital experiences using modern web technologies.
-Currently focused on building and improving my career as a **Software Engineer**
+I build web applications that solve real business problems, from event ticketing platforms and management systems to educational technology solutions.
+
+Currently studying Mechatronics Engineering while growing as a **Software Engineer and system designer**
 ---
 
 ### 🚀 What I Do
 - 🧠 Frontend Development (React.js, TailwindCSS, JavaScript)
-- ⚙️ Backend Collaboration (Node.js, Express, MongoDB, PostgreSQL)
+- ⚙️ API Design & Backend Engineering
 - 🎨 UI/UX Design & Responsive Layouts
 - 🧩 API Integration & Authentication (JWT, OAuth, REST)
 
@@ -27,9 +28,9 @@ Currently focused on building and improving my career as a **Software Engineer**
 ### 💼 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Unifyr](https://github.com/Devstein1365/unifyr_frontend) | Multi-service business platform | MERN Stack |
-| [Wondertix](https://github.com/Devstein1365/wondertix) | Online ticketing platform | React, Tailwind, Local-Storage |
-| [Kanban-Board](https://github.com/Devstein1365/Kanban-Board) | A daily sprint planning App | Reactjs, TailwindCSS, Local-Storage |
+| [Unifyr](https://github.com/Devstein1365/unifyr_frontend) | Business platform connecting users with multiple services through a unified dashboard and booking workflow. | MERN Stack |
+| [Wondertix](https://github.com/Devstein1365/wondertix) | Event ticketing platform supporting event discovery, ticket purchases and attendee management. | React, Tailwind, Local-Storage |
+| [Kanban-Board](https://github.com/Devstein1365/Kanban-Board) | Kanban-based productivity tool for task management and sprint planning. | Reactjs, TailwindCSS, Local-Storage |
 
 ---
 
